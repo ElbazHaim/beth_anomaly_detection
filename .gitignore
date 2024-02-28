@@ -1,0 +1,12 @@
+mlruns*
+tb_logs*
+data/*
+*.jpg
+*.png
+*pyc*
+.py310/*
+953044160103745260/*
+plots/*
+*unscaled.ipynb
+*venv*
+*.venv*
